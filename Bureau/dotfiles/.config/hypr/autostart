@@ -1,9 +1,0 @@
-#!/usr/bin/bash
-
-/usr/lib/polkit-kde-authentication-agent-1 &
-waybar &
-dunst &
-hyprpaper &
-nm-applet --indicator &
-blueman-applet &
-discord &
